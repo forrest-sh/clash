@@ -4,37 +4,13 @@ DOMAIN-SUFFIX,service-ad-image-ga.prd.pluto.tv
 DOMAIN-SUFFIX,service-ad-impression-proxy-use1-1.prd.pluto.tv
 
 
-DOMAIN-SUFFIX,as.mgtv.com
-DOMAIN-SUFFIX,cmop.mgtv.com
-DOMAIN-SUFFIX,da.mgtv.com
-DOMAIN-SUFFIX,imgaliyun.res.mgtv.com
-DOMAIN-SUFFIX,mgtv-bbqn.oss-cn-beijing.aliyuncs.com
-DOMAIN-SUFFIX,mobaliyun.res.mgtv.com
-DOMAIN-SUFFIX,pcvideoaliyun.titan.mgtv.com
-DOMAIN-SUFFIX,pcvideoyd.titan.mgtv.com
-DOMAIN-SUFFIX,pcweb.v1.mgtv.com
-DOMAIN-SUFFIX,log.mgtv.com
-
-
-DOMAIN-SUFFIX,hotchat-im.iqiyi.com
-DOMAIN-SUFFIX,ndct-data.video.iqiyi.com
-DOMAIN-SUFFIX,a.ckm.iqiyi.com
-DOMAIN-SUFFIX,ad.m.iqiyi.com
-DOMAIN-SUFFIX,afp.iqiyi.com
-DOMAIN-SUFFIX,c.uaa.iqiyi.com
-DOMAIN-SUFFIX,cloudpush.iqiyi.com
-DOMAIN-SUFFIX,cm.passport.iqiyi.com
-DOMAIN-SUFFIX,emoticon.sns.iqiyi.com
-DOMAIN-SUFFIX,gamecenter.iqiyi.com
-DOMAIN-SUFFIX,ifacelog.iqiyi.com
-DOMAIN-SUFFIX,mbdlog.iqiyi.com
-DOMAIN-SUFFIX,msg.iqiyi.com
-DOMAIN-SUFFIX,nl.rcd.iqiyi.com
-DOMAIN-SUFFIX,notice.iqiyi.com
-DOMAIN-SUFFIX,paopao.iqiyi.com
-DOMAIN-SUFFIX,policy.video.iqiyi.com
-DOMAIN-SUFFIX,static-s.iqiyi.com
-DOMAIN-SUFFIX,static.g.iqiyi.com
-DOMAIN-SUFFIX,store.iqiyi.com
-DOMAIN-SUFFIX,tracker.sns.iqiyi.com
-DOMAIN-SUFFIX,yuedu.iqiyi.com
+# DOMAIN-SUFFIX,as.mgtv.com
+# DOMAIN-SUFFIX,cmop.mgtv.com
+# DOMAIN-SUFFIX,da.mgtv.com
+# DOMAIN-SUFFIX,imgaliyun.res.mgtv.com
+# DOMAIN-SUFFIX,mgtv-bbqn.oss-cn-beijing.aliyuncs.com
+# DOMAIN-SUFFIX,mobaliyun.res.mgtv.com
+# DOMAIN-SUFFIX,pcvideoaliyun.titan.mgtv.com
+# DOMAIN-SUFFIX,pcvideoyd.titan.mgtv.com
+# DOMAIN-SUFFIX,pcweb.v1.mgtv.com
+# DOMAIN-SUFFIX,log.mgtv.com
