@@ -4,6 +4,9 @@
 # 域名后缀匹配
 DOMAIN-SUFFIX,galsanggame.com
 
+DOMAIN-SUFFIX,vthanh.utako.moe
+DOMAIN-SUFFIX,cdn.skygo.mn
+
 DOMAIN-SUFFIX,ip6-localhost
 DOMAIN-SUFFIX,ip6-loopback
 DOMAIN-SUFFIX,lan
