@@ -1,12 +1,16 @@
 # 直连补充列表(国内域名不解析时，防止走代理使用)
 
+DOMAIN-SUFFIX,googleapis.cn,DIRECT
+
 
 # 域名后缀匹配
-DOMAIN-SUFFIX,galsanggame.com
+DOMAIN,qaoar08.shanghai-electric.com,DIRECT
+DOMAIN,qaoar09.shanghai-electric.com,DIRECT
+DOMAIN-SUFFIX,highly.cc,DIRECT
+DOMAIN-SUFFIX,shec.com.cn,DIRECT
+DOMAIN-SUFFIX,lightlygame.com,DIRECT
+DOMAIN-SUFFIX,galsanggame.com,DIRECT
 
-# 日本电视流媒体直连
-DOMAIN-SUFFIX,vthanh.utako.moe
-DOMAIN-SUFFIX,cdn.skygo.mn
 
 DOMAIN-SUFFIX,ip6-localhost
 DOMAIN-SUFFIX,ip6-loopback
