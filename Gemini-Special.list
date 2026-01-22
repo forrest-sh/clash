@@ -1,0 +1,23 @@
+# 代理补充列表
+
+
+# --- 1. 核心前端 (网页/App入口) ---
+DOMAIN-SUFFIX,gemini.google.com
+DOMAIN-SUFFIX,bard.google.com
+
+# --- 2. 核心后端 (AI 生成/大脑) ---
+# 这是最重要的域名，必须走最干净的 IP
+DOMAIN-SUFFIX,generativelanguage.googleapis.com
+
+# --- 3. 开发环境与附件处理 ---
+# 上传图片、文档分析、AI Studio 开发
+DOMAIN-SUFFIX,alkalimakersuite-pa.googleapis.com
+DOMAIN-SUFFIX,makersuite-pa.googleapis.com
+
+# --- 4. 移动端与助手集成 (防风控补丁) ---
+# 防止手机端 IP 跳变
+DOMAIN-SUFFIX,proactivebackend-pa.googleapis.com
+
+# --- 5. 深度关联 (DeepMind) ---
+DOMAIN-SUFFIX,deepmind.com
+DOMAIN-SUFFIX,deepmind.google
